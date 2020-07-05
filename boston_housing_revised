@@ -1,105 +1,105 @@
-,sale_type,property_type,address,city,state_or_province,zip_code,price,beds,baths,location,square_feet,lot_size,year_built,amount_per_square_feet,HOA_per_month,status,favorite,interested,latitude,longitude
-0,MLS Listing,Condo/Co-op,1466 Commonwealth Ave #1,Boston,MA,2135,599000,3.0,1.0,Brighton,1346.0,1346.0,1925.0,445.0,451.0,Active,N,Y,42.3471218,-71.1403074
-1,MLS Listing,Townhouse,43 Leyden St #43,Boston,MA,2128,659800,3.0,2.5,East Boston's Orient Heights,1397.0,1889.0,2006.0,472.0,441.0,Active,N,Y,42.3901295,-71.0109725
-3,MLS Listing,Condo/Co-op,20 Leverett Ave #2,Boston,MA,2128,439900,2.0,1.5,Boston,948.0,948.0,1982.0,464.0,389.0,Active,N,Y,42.388069200000004,-71.0003686
-4,MLS Listing,Condo/Co-op,2 Walk Hill St #3,Boston,MA,2130,499900,2.0,2.0,Jamaica Plain,882.0,882.0,1920.0,567.0,221.0,Active,N,Y,42.296156599999996,-71.1157304
-5,MLS Listing,Condo/Co-op,944 Dorchester Ave #10,Boston,MA,2125,610000,2.0,1.0,Dorchester's Savin Hill,1238.0,1238.0,1910.0,493.0,617.0,Active,N,Y,42.3185087,-71.0560755
-6,MLS Listing,Condo/Co-op,1 Avery St Unit 14A,Boston,MA,2111,1499000,2.0,2.5,Midtown,1488.0,1488.0,2000.0,1007.0,2071.0,Active,N,Y,42.3534171,-71.06251
-8,MLS Listing,Condo/Co-op,88 Kingston St Unit 1D,Boston,MA,2111,689000,1.0,1.0,Midtown,816.0,816.0,1899.0,844.0,409.0,Active,N,Y,42.352655799999994,-71.05923990000001
-9,MLS Listing,Condo/Co-op,16 Leverett Ave #10,Boston,MA,2128,419000,2.0,1.5,Boston,1014.0,1014.0,1982.0,413.0,416.0,Active,N,Y,42.38943216,-70.99586248
-11,MLS Listing,Condo/Co-op,34 Coffey St #1,Boston,MA,2122,630000,2.0,2.0,Boston,1335.0,1335.0,2007.0,472.0,350.0,Active,N,Y,42.2890473,-71.04941009999999
-12,MLS Listing,Condo/Co-op,21 Father Francis Gilday St #301,Boston,MA,2118,975000,2.0,1.5,South End,971.0,971.0,1858.0,1004.0,773.0,Active,N,Y,42.3371558,-71.0732041
-14,MLS Listing,Condo/Co-op,463 Commonwealth Ave #6,Boston,MA,2215,675000,1.0,1.0,Back Bay,668.0,668.0,1900.0,1010.0,219.0,Active,N,Y,42.34940220000001,-71.0931228
-16,MLS Listing,Condo/Co-op,126 Jersey St #402,Boston,MA,2215,745000,1.0,1.0,The Fenway,624.0,624.0,2007.0,1194.0,357.0,Active,N,Y,42.342574600000006,-71.09654609999998
-17,MLS Listing,Condo/Co-op,100 Saint Marys St #9,Boston,MA,2215,675000,1.0,1.0,The Fenway,652.0,652.0,1860.0,1035.0,478.0,Active,N,Y,42.3465444,-71.10679820000001
-18,MLS Listing,Condo/Co-op,10 Emmet St #2,Boston,MA,2127,399900,1.0,1.0,South Boston,375.0,375.0,1890.0,1066.0,135.0,Active,N,Y,42.3369021,-71.0388543
-19,MLS Listing,Condo/Co-op,109 N St #1,Boston,MA,2127,459000,1.0,1.0,South Boston,480.0,480.0,1920.0,956.0,140.0,Active,N,Y,42.3344853,-71.0314719
-20,MLS Listing,Condo/Co-op,865 E 2nd St #1,Boston,MA,2127,899000,2.0,2.0,Boston,1687.0,1687.0,1899.0,533.0,200.0,Active,N,Y,42.337189200000005,-71.02829270000001
-22,MLS Listing,Condo/Co-op,59 Fleet St #5,Boston,MA,2109,749900,2.0,1.0,Waterfront,792.0,792.0,1900.0,947.0,477.0,Active,N,Y,42.3639789,-71.05137320000001
-23,MLS Listing,Condo/Co-op,6 Logan St #2,Boston,MA,2119,598000,3.0,2.0,Roxbury's Fort Hill,1362.0,1362.0,1905.0,439.0,224.0,Active,N,Y,42.3264285,-71.0904825
-30,MLS Listing,Condo/Co-op,19 Albemarle St #2,Boston,MA,2115,579000,1.0,1.0,Boston,572.0,572.0,1891.0,1012.0,200.0,Active,N,Y,42.3420583,-71.0828359
-35,MLS Listing,Condo/Co-op,65 E India Row Unit 23B,Boston,MA,2110,1375000,2.0,2.5,Waterfront,1630.0,1630.0,1972.0,844.0,1584.0,Active,N,Y,42.3576699,-71.05048590000001
-36,MLS Listing,Condo/Co-op,174 M St #2,Boston,MA,2127,650000,2.0,2.0,Boston,954.0,871.0,1880.0,681.0,150.0,Active,N,Y,42.3318841,-71.0329996
-37,MLS Listing,Single Family Residential,3 Nearen Row Unit 3A,Boston,MA,2129,1200000,3.0,2.5,Charlestown,1605.0,1605.0,2012.0,748.0,222.0,Active,N,Y,42.3767458,-71.05887309999999
-45,MLS Listing,Condo/Co-op,35 Fay St #501,Boston,MA,2118,835000,1.0,1.0,South End,805.0,805.0,2006.0,1037.0,530.0,Active,N,Y,42.3431334,-71.066215
-47,MLS Listing,Condo/Co-op,20 Rowes Wharf #607,Boston,MA,2110,2495000,2.0,2.0,Waterfront,1464.0,1464.0,1987.0,1704.0,2583.0,Active,N,Y,42.356663899999994,-71.04972679999999
-50,MLS Listing,Townhouse,30 Pinckney St #7,Boston,MA,2114,625000,1.0,1.0,Beacon Hill,518.0,518.0,1899.0,1207.0,221.0,Active,N,Y,42.3587419,-71.066242
-51,MLS Listing,Townhouse,175 Saint Botolph St #1,Boston,MA,2115,849000,2.0,1.5,Back Bay,914.0,914.0,1900.0,929.0,413.0,Active,N,Y,42.3432581,-71.083153
-52,MLS Listing,Condo/Co-op,580 Washington St #1102,Boston,MA,2111,1895000,3.0,2.0,Midtown,1710.0,9999.0,2013.0,1108.0,1998.0,Active,N,Y,42.3533804,-71.0619769
-54,MLS Listing,Condo/Co-op,26 Montgomery St #3,Boston,MA,2116,689000,2.0,1.0,South End,626.0,626.0,1910.0,1101.0,323.0,Active,N,Y,42.3437098,-71.0728983
-61,MLS Listing,Condo/Co-op,597 E 7Th St #3,Boston,MA,2127,899000,2.0,2.0,South Boston,1077.0,1077.0,1915.0,835.0,224.0,Active,N,Y,42.332035100000006,-71.0362516
-62,MLS Listing,Condo/Co-op,44 Garden St #2,Boston,MA,2114,749000,2.0,1.0,Beacon Hill,608.0,608.0,1885.0,1232.0,220.0,Active,N,Y,42.3600503,-71.0667432
-63,MLS Listing,Condo/Co-op,22 Glenville #2,Boston,MA,2134,650000,4.0,1.0,Allston,1400.0,1306.0,1910.0,464.0,821.0,Active,N,Y,42.3504845,-71.1324083
-69,MLS Listing,Condo/Co-op,231 W 5th St #1,Boston,MA,2127,589000,2.0,1.0,Boston,846.0,846.0,1890.0,696.0,208.0,Active,N,Y,42.3358602,-71.05021459999999
-73,MLS Listing,Condo/Co-op,966 Hyde Park Ave #102,Boston,MA,2136,539000,3.0,2.0,Hyde Park,1280.0,9750.0,2020.0,421.0,338.0,Active,N,Y,42.2667898,-71.120644
-77,MLS Listing,Condo/Co-op,139 E Berkeley St #201,Boston,MA,2118,775000,1.0,1.0,South End,840.0,840.0,2002.0,923.0,419.0,Active,N,Y,42.3434916,-71.06504770000001
-84,MLS Listing,Condo/Co-op,331 Chelsea St #1,Boston,MA,2128,599900,2.0,2.0,East Boston,1015.0,2240.0,2020.0,591.0,250.0,Active,N,Y,42.3776852,-71.0293709
-87,MLS Listing,Condo/Co-op,207 W Canton St #1,Boston,MA,2116,779000,1.0,1.0,South End,724.0,724.0,1899.0,1076.0,165.0,Active,N,Y,42.345220899999994,-71.0766941
-91,MLS Listing,Condo/Co-op,8 Dewey St #1,Boston,MA,2119,405000,2.0,2.0,Roxbury,992.0,1863.0,1899.0,408.0,200.0,Active,N,Y,42.3169828,-71.0776299
-98,MLS Listing,Condo/Co-op,8 Dewey St #3,Boston,MA,2119,415000,2.0,2.0,Roxbury,1036.0,1863.0,1899.0,401.0,200.0,Active,N,Y,42.3169828,-71.0776299
-100,MLS Listing,Condo/Co-op,181 Essex St Unit E503,Boston,MA,2111,735000,1.0,1.0,Leather District,779.0,779.0,2006.0,944.0,483.0,Active,N,Y,42.351981,-71.0577947
-101,MLS Listing,Condo/Co-op,37 Farragut Rd #5,Boston,MA,2127,1039000,2.0,2.0,South Boston,1220.0,6300.0,2020.0,852.0,350.0,Active,N,Y,42.3370169,-71.025401
-102,MLS Listing,Condo/Co-op,608 Massachusetts Ave #3,Boston,MA,2118,699999,2.0,1.5,South End,930.0,930.0,1890.0,753.0,234.0,Active,N,Y,42.3373354,-71.07751590000001
-108,MLS Listing,Condo/Co-op,172 Hyde Park Ave #2,Boston,MA,2130,539000,3.0,1.0,Jamaica Plain,1279.0,1279.0,1900.0,421.0,280.0,Active,N,Y,42.295066299999995,-71.11641159999999
-114,MLS Listing,Condo/Co-op,10 Douglas Park #4,Boston,MA,2118,660000,2.0,1.0,South End,1009.0,1009.0,2000.0,654.0,395.0,Active,N,Y,42.3384706,-71.0841767
-116,MLS Listing,Condo/Co-op,5 Greenwich Park #5,Boston,MA,2118,1075000,2.0,1.0,South End,739.0,739.0,1900.0,1455.0,353.0,Active,N,Y,42.3423879,-71.0799926
-117,MLS Listing,Condo/Co-op,242 Jamaicaway #3,Boston,MA,2130,550000,2.0,1.0,Jamaica Plain,990.0,990.0,1940.0,556.0,185.0,Active,N,Y,42.3231692,-71.1150334
-123,MLS Listing,Condo/Co-op,487 Talbot Ave #5,Boston,MA,2124,499800,2.0,1.0,Dorchester,1110.0,1110.0,1920.0,450.0,312.0,Active,N,Y,42.2881439,-71.06613670000002
-125,MLS Listing,Townhouse,7 Lambert St #7,Boston,MA,2119,699000,3.0,2.5,Roxbury,1931.0,1931.0,2004.0,362.0,305.0,Active,N,Y,42.3284176,-71.0916765
-133,MLS Listing,Condo/Co-op,159 Emerson St #159,Boston,MA,2127,499000,1.0,1.0,South Boston,676.0,676.0,1920.0,738.0,192.0,Active,N,Y,42.3352476,-71.03919909999999
-136,MLS Listing,Condo/Co-op,130 Fulton St #8,Boston,MA,2109,845000,1.0,1.0,Waterfront,990.0,990.0,1900.0,854.0,492.0,Active,N,Y,42.363283200000005,-71.0524115
-140,MLS Listing,Condo/Co-op,410 W Broadway #304,Boston,MA,2127,910000,2.0,2.0,South Boston,1099.0,9894.0,2019.0,828.0,372.0,Active,N,Y,42.337258399999996,-71.0477571
-141,MLS Listing,Condo/Co-op,1241-1251 Adams St Unit B506,Boston,MA,2124,1269000,2.0,2.0,Dorchester's Lower Mills,1925.0,1925.0,1900.0,659.0,1112.0,Active,N,Y,42.270453700000004,-71.0730672
-145,MLS Listing,Townhouse,180 Roslindale Ave #180,Boston,MA,2131,849000,4.0,2.5,Roslindale,2000.0,4000.0,2017.0,425.0,210.0,Active,N,Y,42.2818918,-71.136965
-149,MLS Listing,Condo/Co-op,34 Worcester St #3,Boston,MA,2118,649000,2.0,1.0,South End,554.0,554.0,1899.0,1171.0,181.0,Active,N,Y,42.338305299999995,-71.0769148
-152,MLS Listing,Condo/Co-op,7 Grampian Way #1,Boston,MA,2125,540000,2.0,1.0,Dorchester's Savin Hill,1030.0,1030.0,1905.0,524.0,150.0,Active,N,Y,42.3105778,-71.0516123
-156,MLS Listing,Townhouse,74 Georgia Sr #2,Boston,MA,2121,628000,3.0,2.0,Roxbury,1875.0,8900.0,1875.0,335.0,99999.0,Active,N,Y,42.310202399999994,-71.0855021
-159,MLS Listing,Condo/Co-op,49 Revere St #3,Boston,MA,2114,745000,2.0,1.0,Beacon Hill,683.0,683.0,1899.0,1091.0,455.0,Active,N,Y,42.359647100000004,-71.0682172
-166,MLS Listing,Condo/Co-op,17 Wyvern St #3,Boston,MA,2131,449000,3.0,1.0,Roslindale,1055.0,1055.0,1905.0,426.0,200.0,Active,N,Y,42.288247399999996,-71.1173666
-167,MLS Listing,Condo/Co-op,66 Falcon St #2,Boston,MA,2128,614000,2.0,2.0,East Boston's Eagle Hill,890.0,9999.0,1900.0,690.0,225.0,Active,N,Y,42.3821749,-71.036913
-180,MLS Listing,Condo/Co-op,96 South St #3,Boston,MA,2111,975000,2.0,2.0,Leather District,1710.0,1710.0,1899.0,570.0,340.0,Active,N,Y,42.3511437,-71.0570955
-184,MLS Listing,Townhouse,326-328 Commercial St #25,Boston,MA,2109,765000,1.0,1.0,Waterfront,759.0,759.0,1896.0,1008.0,261.0,Active,N,Y,42.3654723,-71.05131170000001
-186,MLS Listing,Condo/Co-op,89 Turner St #3,Boston,MA,2135,534900,2.0,1.0,Boston,927.0,927.0,1920.0,577.0,200.0,Active,N,Y,42.352231599999996,-71.1617886
-192,MLS Listing,Condo/Co-op,44 Chandler St #7,Boston,MA,2116,790000,1.0,1.0,Boston,589.0,589.0,1900.0,1341.0,305.0,Active,N,Y,42.3467039,-71.07123709999999
-193,MLS Listing,Condo/Co-op,22 Verdun St #1,Boston,MA,2124,475000,3.0,1.0,Boston,1095.0,1095.0,1905.0,434.0,175.0,Active,N,Y,42.2825279,-71.059289
-194,MLS Listing,Condo/Co-op,11 High Rock Way #2,Boston,MA,2134,599000,3.0,1.0,Allston,1211.0,1211.0,1899.0,495.0,537.0,Active,N,Y,42.3514559,-71.1390495
-195,MLS Listing,Condo/Co-op,90 Cornell St #2,Boston,MA,2131,449000,2.0,1.0,Roslindale,1033.0,1033.0,1920.0,435.0,175.0,Active,N,Y,42.276544200000004,-71.1316073
-198,MLS Listing,Condo/Co-op,476 Shawmut Ave #6,Boston,MA,2118,1299000,2.0,2.0,South End,1137.0,1137.0,1920.0,1142.0,235.0,Active,N,Y,42.338457399999996,-71.0758993
-202,MLS Listing,Townhouse,33 Bremen St Unit -,Boston,MA,2128,539000,3.0,2.0,East Boston's Jeffries Point,1080.0,1080.0,1986.0,499.0,130.0,Active,N,Y,42.369115,-71.03824499999999
-207,MLS Listing,Condo/Co-op,152 Old Colony Ave #12,Boston,MA,2127,849000,3.0,2.0,South Boston,1187.0,1257.0,2006.0,715.0,369.0,Active,N,Y,42.3346467,-71.0546502
-210,MLS Listing,Condo/Co-op,71 Rutland St #1,Boston,MA,2118,1290000,2.0,2.0,South End,1393.0,1393.0,1900.0,926.0,445.0,Active,N,Y,42.340533,-71.0765003
-212,MLS Listing,Condo/Co-op,165 W 6th Unit H,Boston,MA,2127,599000,2.0,1.0,South Boston,952.0,952.0,1990.0,629.0,426.0,Active,N,Y,42.3361121,-71.0522375
-216,MLS Listing,Condo/Co-op,325 Columbus Ave #5,Boston,MA,2116,759000,1.0,1.0,South End,734.0,734.0,1890.0,1034.0,381.0,Active,N,Y,42.346376,-71.0750281
-217,MLS Listing,Condo/Co-op,12 Rutland Sq #2,Boston,MA,2118,895000,1.0,1.0,South End,772.0,772.0,1899.0,1159.0,207.0,Active,N,Y,42.3412957,-71.07803129999999
-220,MLS Listing,Condo/Co-op,47 Litchfield St #102,Boston,MA,2135,489000,2.0,1.0,Brighton,839.0,839.0,1900.0,583.0,259.0,Active,N,Y,42.359716399999996,-71.14071700000001
-226,MLS Listing,Condo/Co-op,416 Massachusetts Ave #2,Boston,MA,2118,729900,1.0,1.0,South End,848.0,999.0,1899.0,861.0,208.0,Active,N,Y,42.3412681,-71.0822439
-229,MLS Listing,Condo/Co-op,456 Centre St #5,Boston,MA,2130,549900,2.0,2.0,Jamaica Plain,925.0,925.0,1920.0,594.0,390.0,Active,N,Y,42.3195435,-71.1114198
-233,MLS Listing,Condo/Co-op,1736 Commonwealth Ave #1736,Boston,MA,2135,420000,2.0,1.0,Brighton,730.0,730.0,1940.0,575.0,400.0,Active,N,Y,42.3412671,-71.14893719999999
-237,MLS Listing,Condo/Co-op,32 Fleet St #6,Boston,MA,2113,575000,1.0,1.0,North End,592.0,592.0,1940.0,971.0,270.0,Active,N,Y,42.364562400000004,-71.0523418
-239,MLS Listing,Townhouse,29 Harrison St Unit F,Boston,MA,2131,409000,3.0,2.5,Roslindale,1729.0,1729.0,1989.0,237.0,346.0,Active,N,Y,42.2884047,-71.12025329999999
-240,MLS Listing,Condo/Co-op,37 Upton St #1,Boston,MA,2118,1895000,3.0,2.0,South End,1850.0,1711.0,1900.0,1024.0,286.0,Active,N,Y,42.3427258,-71.0723527
-243,MLS Listing,Condo/Co-op,160 Commonwealth Ave #513,Boston,MA,2116,1100000,1.0,1.0,Back Bay,972.0,972.0,1881.0,1132.0,849.0,Active,N,Y,42.3512759,-71.0786479
-244,MLS Listing,Condo/Co-op,15 Upton St #3,Boston,MA,2118,999000,2.0,1.0,South End,800.0,800.0,1900.0,1249.0,217.0,Active,N,Y,42.3421799,-71.0717079
-249,MLS Listing,Condo/Co-op,84 Train St #1,Boston,MA,2122,549000,2.0,1.0,Dorchester,1200.0,1306.0,1900.0,458.0,250.0,Active,N,Y,42.292931700000004,-71.0540127
-250,MLS Listing,Condo/Co-op,108 E Brookline St #3,Boston,MA,2118,739900,2.0,1.0,South End,716.0,716.0,1910.0,1033.0,175.0,Active,N,Y,42.3370446,-71.06919
-252,MLS Listing,Condo/Co-op,12 Everett St #202,Boston,MA,2134,649000,2.0,1.0,Allston,877.0,877.0,1900.0,740.0,393.0,Active,N,Y,42.354369,-71.1390936
-253,MLS Listing,Condo/Co-op,121 M St #2,Boston,MA,2127,539900,1.0,1.0,Boston,527.0,527.0,1900.0,1024.0,110.0,Active,N,Y,42.3337564,-71.0334721
-255,MLS Listing,Condo/Co-op,46 Upton St #4,Boston,MA,2118,1695000,3.0,2.5,South End,1477.0,1477.0,1890.0,1148.0,464.0,Active,N,Y,42.342695,-71.07287170000001
-256,MLS Listing,Condo/Co-op,606 E 4Th St #103,Boston,MA,2127,1050000,2.0,2.0,Boston,1386.0,1386.0,2011.0,758.0,686.0,Active,N,Y,42.3349073,-71.0405454
-259,MLS Listing,Condo/Co-op,9 Temple St Unit B,Boston,MA,2114,849000,2.0,2.0,Beacon Hill,860.0,860.0,1900.0,987.0,176.0,Active,N,Y,42.360900799999996,-71.0639293
-262,MLS Listing,Condo/Co-op,38 Dix St #2,Boston,MA,2122,649000,3.0,2.0,Dorchester,1344.0,1344.0,1905.0,483.0,200.0,Active,N,Y,42.2956094,-71.06000279999999
-264,MLS Listing,Single Family Residential,26 Moultrie St #26,Boston,MA,2124,679000,5.0,1.5,Dorchester,2073.0,2073.0,1920.0,328.0,350.0,Active,N,Y,42.291407899999996,-71.06933259999998
-267,MLS Listing,Condo/Co-op,619 Massachusetts Ave #3,Boston,MA,2118,685000,2.0,1.0,South End,783.0,783.0,1905.0,875.0,179.0,Active,N,Y,42.3368198,-71.07779559999999
-278,MLS Listing,Condo/Co-op,3 Lamson St #1,Boston,MA,2128,699000,3.0,2.0,East Boston's Jeffries Point,1237.0,1237.0,1895.0,565.0,312.0,Active,N,Y,42.365283399999996,-71.0331865
-285,MLS Listing,Condo/Co-op,80 Broad St #1008,Boston,MA,2110,1295000,2.0,2.0,Waterfront,1168.0,1168.0,2006.0,1109.0,1202.0,Active,N,Y,42.35771,-71.0528312
-287,MLS Listing,Townhouse,27 Howland St #2,Boston,MA,2121,999000,3.0,3.0,Boston,3633.0,8300.0,1900.0,275.0,399.0,Active,N,Y,42.31267570000001,-71.0854092
-288,MLS Listing,Condo/Co-op,45 Province St #1806,Boston,MA,2108,1725000,2.0,2.0,Boston,1405.0,1405.0,2009.0,1228.0,1175.0,Active,N,Y,42.35723170000001,-71.0600121
-311,MLS Listing,Condo/Co-op,37 Worcester Sq #4,Boston,MA,2118,1858000,2.0,2.5,South End,1803.0,1803.0,1900.0,1031.0,535.0,Active,N,Y,42.335998100000005,-71.07431729999999
-315,MLS Listing,Condo/Co-op,703 E 5Th St #1,Boston,MA,2127,699999,2.0,1.0,South Boston's City Point,929.0,929.0,1905.0,753.0,175.0,Active,N,Y,42.333835799999996,-71.03202929999999
-321,MLS Listing,Townhouse,49 Stimson St #49,Boston,MA,2132,449900,2.0,2.0,West Roxbury,1116.0,1675.0,1991.0,403.0,350.0,Active,N,Y,42.260632799999996,-71.1589099
-325,MLS Listing,Condo/Co-op,8 Whittier Pl Unit 6D,Boston,MA,2114,585000,1.0,1.0,West End,942.0,999.0,1964.0,621.0,775.0,Active,N,Y,42.3654839,-71.06728000000001
-327,MLS Listing,Condo/Co-op,141 Englewood Ave #31,Boston,MA,2135,419000,2.0,1.0,Brighton's Cleveland Circle,765.0,765.0,1930.0,548.0,568.0,Active,N,Y,42.337667100000004,-71.15163869999999
-333,MLS Listing,Condo/Co-op,50 B St #8,Boston,MA,2127,849000,2.0,2.0,South Boston,1220.0,1220.0,2002.0,696.0,356.0,Active,N,Y,42.3397487,-71.05549090000001
-339,MLS Listing,Condo/Co-op,3 Avery St #401,Boston,MA,2111,719800,2.0,2.0,Midtown,1509.0,1509.0,2004.0,477.0,2283.0,Active,N,Y,42.353596,-71.06286949999999
-340,MLS Listing,Condo/Co-op,20 Union Park #1,Boston,MA,2118,1395000,2.0,1.0,South End,1151.0,1151.0,1899.0,1212.0,514.0,Active,N,Y,42.3424714,-71.0715323
-349,MLS Listing,Condo/Co-op,97 Anderer Ln #102,Boston,MA,2132,525000,2.0,2.0,West Roxbury's Chestnut Hill,1032.0,1032.0,1989.0,509.0,450.0,Active,N,Y,42.29354910000001,-71.169289
+sale_type,property_type,address,city,state_or_province,zip_code,price,beds,baths,location,square_feet,lot_size,year_built,amount_per_square_feet,HOA_per_month,status,favorite,interested,latitude,longitude
+MLS Listing,Condo/Co-op,1466 Commonwealth Ave #1,Boston,MA,2135,599000,3.0,1.0,Brighton,1346.0,1346.0,1925.0,445.0,451.0,Active,N,Y,42.3471218,-71.1403074
+MLS Listing,Townhouse,43 Leyden St #43,Boston,MA,2128,659800,3.0,2.5,East Boston's Orient Heights,1397.0,1889.0,2006.0,472.0,441.0,Active,N,Y,42.3901295,-71.0109725
+MLS Listing,Condo/Co-op,20 Leverett Ave #2,Boston,MA,2128,439900,2.0,1.5,Boston,948.0,948.0,1982.0,464.0,389.0,Active,N,Y,42.388069200000004,-71.0003686
+MLS Listing,Condo/Co-op,2 Walk Hill St #3,Boston,MA,2130,499900,2.0,2.0,Jamaica Plain,882.0,882.0,1920.0,567.0,221.0,Active,N,Y,42.296156599999996,-71.1157304
+MLS Listing,Condo/Co-op,944 Dorchester Ave #10,Boston,MA,2125,610000,2.0,1.0,Dorchester's Savin Hill,1238.0,1238.0,1910.0,493.0,617.0,Active,N,Y,42.3185087,-71.0560755
+MLS Listing,Condo/Co-op,1 Avery St Unit 14A,Boston,MA,2111,1499000,2.0,2.5,Midtown,1488.0,1488.0,2000.0,1007.0,2071.0,Active,N,Y,42.3534171,-71.06251
+MLS Listing,Condo/Co-op,88 Kingston St Unit 1D,Boston,MA,2111,689000,1.0,1.0,Midtown,816.0,816.0,1899.0,844.0,409.0,Active,N,Y,42.352655799999994,-71.05923990000001
+MLS Listing,Condo/Co-op,16 Leverett Ave #10,Boston,MA,2128,419000,2.0,1.5,Boston,1014.0,1014.0,1982.0,413.0,416.0,Active,N,Y,42.38943216,-70.99586248
+MLS Listing,Condo/Co-op,34 Coffey St #1,Boston,MA,2122,630000,2.0,2.0,Boston,1335.0,1335.0,2007.0,472.0,350.0,Active,N,Y,42.2890473,-71.04941009999999
+MLS Listing,Condo/Co-op,21 Father Francis Gilday St #301,Boston,MA,2118,975000,2.0,1.5,South End,971.0,971.0,1858.0,1004.0,773.0,Active,N,Y,42.3371558,-71.0732041
+MLS Listing,Condo/Co-op,463 Commonwealth Ave #6,Boston,MA,2215,675000,1.0,1.0,Back Bay,668.0,668.0,1900.0,1010.0,219.0,Active,N,Y,42.34940220000001,-71.0931228
+MLS Listing,Condo/Co-op,126 Jersey St #402,Boston,MA,2215,745000,1.0,1.0,The Fenway,624.0,624.0,2007.0,1194.0,357.0,Active,N,Y,42.342574600000006,-71.09654609999998
+MLS Listing,Condo/Co-op,100 Saint Marys St #9,Boston,MA,2215,675000,1.0,1.0,The Fenway,652.0,652.0,1860.0,1035.0,478.0,Active,N,Y,42.3465444,-71.10679820000001
+MLS Listing,Condo/Co-op,10 Emmet St #2,Boston,MA,2127,399900,1.0,1.0,South Boston,375.0,375.0,1890.0,1066.0,135.0,Active,N,Y,42.3369021,-71.0388543
+MLS Listing,Condo/Co-op,109 N St #1,Boston,MA,2127,459000,1.0,1.0,South Boston,480.0,480.0,1920.0,956.0,140.0,Active,N,Y,42.3344853,-71.0314719
+MLS Listing,Condo/Co-op,865 E 2nd St #1,Boston,MA,2127,899000,2.0,2.0,Boston,1687.0,1687.0,1899.0,533.0,200.0,Active,N,Y,42.337189200000005,-71.02829270000001
+MLS Listing,Condo/Co-op,59 Fleet St #5,Boston,MA,2109,749900,2.0,1.0,Waterfront,792.0,792.0,1900.0,947.0,477.0,Active,N,Y,42.3639789,-71.05137320000001
+MLS Listing,Condo/Co-op,6 Logan St #2,Boston,MA,2119,598000,3.0,2.0,Roxbury's Fort Hill,1362.0,1362.0,1905.0,439.0,224.0,Active,N,Y,42.3264285,-71.0904825
+MLS Listing,Condo/Co-op,19 Albemarle St #2,Boston,MA,2115,579000,1.0,1.0,Boston,572.0,572.0,1891.0,1012.0,200.0,Active,N,Y,42.3420583,-71.0828359
+MLS Listing,Condo/Co-op,65 E India Row Unit 23B,Boston,MA,2110,1375000,2.0,2.5,Waterfront,1630.0,1630.0,1972.0,844.0,1584.0,Active,N,Y,42.3576699,-71.05048590000001
+MLS Listing,Condo/Co-op,174 M St #2,Boston,MA,2127,650000,2.0,2.0,Boston,954.0,871.0,1880.0,681.0,150.0,Active,N,Y,42.3318841,-71.0329996
+MLS Listing,Single Family Residential,3 Nearen Row Unit 3A,Boston,MA,2129,1200000,3.0,2.5,Charlestown,1605.0,1605.0,2012.0,748.0,222.0,Active,N,Y,42.3767458,-71.05887309999999
+MLS Listing,Condo/Co-op,35 Fay St #501,Boston,MA,2118,835000,1.0,1.0,South End,805.0,805.0,2006.0,1037.0,530.0,Active,N,Y,42.3431334,-71.066215
+MLS Listing,Condo/Co-op,20 Rowes Wharf #607,Boston,MA,2110,2495000,2.0,2.0,Waterfront,1464.0,1464.0,1987.0,1704.0,2583.0,Active,N,Y,42.356663899999994,-71.04972679999999
+MLS Listing,Townhouse,30 Pinckney St #7,Boston,MA,2114,625000,1.0,1.0,Beacon Hill,518.0,518.0,1899.0,1207.0,221.0,Active,N,Y,42.3587419,-71.066242
+MLS Listing,Townhouse,175 Saint Botolph St #1,Boston,MA,2115,849000,2.0,1.5,Back Bay,914.0,914.0,1900.0,929.0,413.0,Active,N,Y,42.3432581,-71.083153
+MLS Listing,Condo/Co-op,580 Washington St #1102,Boston,MA,2111,1895000,3.0,2.0,Midtown,1710.0,9999.0,2013.0,1108.0,1998.0,Active,N,Y,42.3533804,-71.0619769
+MLS Listing,Condo/Co-op,26 Montgomery St #3,Boston,MA,2116,689000,2.0,1.0,South End,626.0,626.0,1910.0,1101.0,323.0,Active,N,Y,42.3437098,-71.0728983
+MLS Listing,Condo/Co-op,597 E 7Th St #3,Boston,MA,2127,899000,2.0,2.0,South Boston,1077.0,1077.0,1915.0,835.0,224.0,Active,N,Y,42.332035100000006,-71.0362516
+MLS Listing,Condo/Co-op,44 Garden St #2,Boston,MA,2114,749000,2.0,1.0,Beacon Hill,608.0,608.0,1885.0,1232.0,220.0,Active,N,Y,42.3600503,-71.0667432
+MLS Listing,Condo/Co-op,22 Glenville #2,Boston,MA,2134,650000,4.0,1.0,Allston,1400.0,1306.0,1910.0,464.0,821.0,Active,N,Y,42.3504845,-71.1324083
+MLS Listing,Condo/Co-op,231 W 5th St #1,Boston,MA,2127,589000,2.0,1.0,Boston,846.0,846.0,1890.0,696.0,208.0,Active,N,Y,42.3358602,-71.05021459999999
+MLS Listing,Condo/Co-op,966 Hyde Park Ave #102,Boston,MA,2136,539000,3.0,2.0,Hyde Park,1280.0,9750.0,2020.0,421.0,338.0,Active,N,Y,42.2667898,-71.120644
+MLS Listing,Condo/Co-op,139 E Berkeley St #201,Boston,MA,2118,775000,1.0,1.0,South End,840.0,840.0,2002.0,923.0,419.0,Active,N,Y,42.3434916,-71.06504770000001
+MLS Listing,Condo/Co-op,331 Chelsea St #1,Boston,MA,2128,599900,2.0,2.0,East Boston,1015.0,2240.0,2020.0,591.0,250.0,Active,N,Y,42.3776852,-71.0293709
+MLS Listing,Condo/Co-op,207 W Canton St #1,Boston,MA,2116,779000,1.0,1.0,South End,724.0,724.0,1899.0,1076.0,165.0,Active,N,Y,42.345220899999994,-71.0766941
+MLS Listing,Condo/Co-op,8 Dewey St #1,Boston,MA,2119,405000,2.0,2.0,Roxbury,992.0,1863.0,1899.0,408.0,200.0,Active,N,Y,42.3169828,-71.0776299
+MLS Listing,Condo/Co-op,8 Dewey St #3,Boston,MA,2119,415000,2.0,2.0,Roxbury,1036.0,1863.0,1899.0,401.0,200.0,Active,N,Y,42.3169828,-71.0776299
+MLS Listing,Condo/Co-op,181 Essex St Unit E503,Boston,MA,2111,735000,1.0,1.0,Leather District,779.0,779.0,2006.0,944.0,483.0,Active,N,Y,42.351981,-71.0577947
+MLS Listing,Condo/Co-op,37 Farragut Rd #5,Boston,MA,2127,1039000,2.0,2.0,South Boston,1220.0,6300.0,2020.0,852.0,350.0,Active,N,Y,42.3370169,-71.025401
+MLS Listing,Condo/Co-op,608 Massachusetts Ave #3,Boston,MA,2118,699999,2.0,1.5,South End,930.0,930.0,1890.0,753.0,234.0,Active,N,Y,42.3373354,-71.07751590000001
+MLS Listing,Condo/Co-op,172 Hyde Park Ave #2,Boston,MA,2130,539000,3.0,1.0,Jamaica Plain,1279.0,1279.0,1900.0,421.0,280.0,Active,N,Y,42.295066299999995,-71.11641159999999
+MLS Listing,Condo/Co-op,10 Douglas Park #4,Boston,MA,2118,660000,2.0,1.0,South End,1009.0,1009.0,2000.0,654.0,395.0,Active,N,Y,42.3384706,-71.0841767
+MLS Listing,Condo/Co-op,5 Greenwich Park #5,Boston,MA,2118,1075000,2.0,1.0,South End,739.0,739.0,1900.0,1455.0,353.0,Active,N,Y,42.3423879,-71.0799926
+MLS Listing,Condo/Co-op,242 Jamaicaway #3,Boston,MA,2130,550000,2.0,1.0,Jamaica Plain,990.0,990.0,1940.0,556.0,185.0,Active,N,Y,42.3231692,-71.1150334
+MLS Listing,Condo/Co-op,487 Talbot Ave #5,Boston,MA,2124,499800,2.0,1.0,Dorchester,1110.0,1110.0,1920.0,450.0,312.0,Active,N,Y,42.2881439,-71.06613670000002
+MLS Listing,Townhouse,7 Lambert St #7,Boston,MA,2119,699000,3.0,2.5,Roxbury,1931.0,1931.0,2004.0,362.0,305.0,Active,N,Y,42.3284176,-71.0916765
+MLS Listing,Condo/Co-op,159 Emerson St #159,Boston,MA,2127,499000,1.0,1.0,South Boston,676.0,676.0,1920.0,738.0,192.0,Active,N,Y,42.3352476,-71.03919909999999
+MLS Listing,Condo/Co-op,130 Fulton St #8,Boston,MA,2109,845000,1.0,1.0,Waterfront,990.0,990.0,1900.0,854.0,492.0,Active,N,Y,42.363283200000005,-71.0524115
+MLS Listing,Condo/Co-op,410 W Broadway #304,Boston,MA,2127,910000,2.0,2.0,South Boston,1099.0,9894.0,2019.0,828.0,372.0,Active,N,Y,42.337258399999996,-71.0477571
+MLS Listing,Condo/Co-op,1241-1251 Adams St Unit B506,Boston,MA,2124,1269000,2.0,2.0,Dorchester's Lower Mills,1925.0,1925.0,1900.0,659.0,1112.0,Active,N,Y,42.270453700000004,-71.0730672
+MLS Listing,Townhouse,180 Roslindale Ave #180,Boston,MA,2131,849000,4.0,2.5,Roslindale,2000.0,4000.0,2017.0,425.0,210.0,Active,N,Y,42.2818918,-71.136965
+MLS Listing,Condo/Co-op,34 Worcester St #3,Boston,MA,2118,649000,2.0,1.0,South End,554.0,554.0,1899.0,1171.0,181.0,Active,N,Y,42.338305299999995,-71.0769148
+MLS Listing,Condo/Co-op,7 Grampian Way #1,Boston,MA,2125,540000,2.0,1.0,Dorchester's Savin Hill,1030.0,1030.0,1905.0,524.0,150.0,Active,N,Y,42.3105778,-71.0516123
+MLS Listing,Townhouse,74 Georgia Sr #2,Boston,MA,2121,628000,3.0,2.0,Roxbury,1875.0,8900.0,1875.0,335.0,99999.0,Active,N,Y,42.310202399999994,-71.0855021
+MLS Listing,Condo/Co-op,49 Revere St #3,Boston,MA,2114,745000,2.0,1.0,Beacon Hill,683.0,683.0,1899.0,1091.0,455.0,Active,N,Y,42.359647100000004,-71.0682172
+MLS Listing,Condo/Co-op,17 Wyvern St #3,Boston,MA,2131,449000,3.0,1.0,Roslindale,1055.0,1055.0,1905.0,426.0,200.0,Active,N,Y,42.288247399999996,-71.1173666
+MLS Listing,Condo/Co-op,66 Falcon St #2,Boston,MA,2128,614000,2.0,2.0,East Boston's Eagle Hill,890.0,9999.0,1900.0,690.0,225.0,Active,N,Y,42.3821749,-71.036913
+MLS Listing,Condo/Co-op,96 South St #3,Boston,MA,2111,975000,2.0,2.0,Leather District,1710.0,1710.0,1899.0,570.0,340.0,Active,N,Y,42.3511437,-71.0570955
+MLS Listing,Townhouse,326-328 Commercial St #25,Boston,MA,2109,765000,1.0,1.0,Waterfront,759.0,759.0,1896.0,1008.0,261.0,Active,N,Y,42.3654723,-71.05131170000001
+MLS Listing,Condo/Co-op,89 Turner St #3,Boston,MA,2135,534900,2.0,1.0,Boston,927.0,927.0,1920.0,577.0,200.0,Active,N,Y,42.352231599999996,-71.1617886
+MLS Listing,Condo/Co-op,44 Chandler St #7,Boston,MA,2116,790000,1.0,1.0,Boston,589.0,589.0,1900.0,1341.0,305.0,Active,N,Y,42.3467039,-71.07123709999999
+MLS Listing,Condo/Co-op,22 Verdun St #1,Boston,MA,2124,475000,3.0,1.0,Boston,1095.0,1095.0,1905.0,434.0,175.0,Active,N,Y,42.2825279,-71.059289
+MLS Listing,Condo/Co-op,11 High Rock Way #2,Boston,MA,2134,599000,3.0,1.0,Allston,1211.0,1211.0,1899.0,495.0,537.0,Active,N,Y,42.3514559,-71.1390495
+MLS Listing,Condo/Co-op,90 Cornell St #2,Boston,MA,2131,449000,2.0,1.0,Roslindale,1033.0,1033.0,1920.0,435.0,175.0,Active,N,Y,42.276544200000004,-71.1316073
+MLS Listing,Condo/Co-op,476 Shawmut Ave #6,Boston,MA,2118,1299000,2.0,2.0,South End,1137.0,1137.0,1920.0,1142.0,235.0,Active,N,Y,42.338457399999996,-71.0758993
+MLS Listing,Townhouse,33 Bremen St Unit -,Boston,MA,2128,539000,3.0,2.0,East Boston's Jeffries Point,1080.0,1080.0,1986.0,499.0,130.0,Active,N,Y,42.369115,-71.03824499999999
+MLS Listing,Condo/Co-op,152 Old Colony Ave #12,Boston,MA,2127,849000,3.0,2.0,South Boston,1187.0,1257.0,2006.0,715.0,369.0,Active,N,Y,42.3346467,-71.0546502
+MLS Listing,Condo/Co-op,71 Rutland St #1,Boston,MA,2118,1290000,2.0,2.0,South End,1393.0,1393.0,1900.0,926.0,445.0,Active,N,Y,42.340533,-71.0765003
+MLS Listing,Condo/Co-op,165 W 6th Unit H,Boston,MA,2127,599000,2.0,1.0,South Boston,952.0,952.0,1990.0,629.0,426.0,Active,N,Y,42.3361121,-71.0522375
+MLS Listing,Condo/Co-op,325 Columbus Ave #5,Boston,MA,2116,759000,1.0,1.0,South End,734.0,734.0,1890.0,1034.0,381.0,Active,N,Y,42.346376,-71.0750281
+MLS Listing,Condo/Co-op,12 Rutland Sq #2,Boston,MA,2118,895000,1.0,1.0,South End,772.0,772.0,1899.0,1159.0,207.0,Active,N,Y,42.3412957,-71.07803129999999
+MLS Listing,Condo/Co-op,47 Litchfield St #102,Boston,MA,2135,489000,2.0,1.0,Brighton,839.0,839.0,1900.0,583.0,259.0,Active,N,Y,42.359716399999996,-71.14071700000001
+MLS Listing,Condo/Co-op,416 Massachusetts Ave #2,Boston,MA,2118,729900,1.0,1.0,South End,848.0,999.0,1899.0,861.0,208.0,Active,N,Y,42.3412681,-71.0822439
+MLS Listing,Condo/Co-op,456 Centre St #5,Boston,MA,2130,549900,2.0,2.0,Jamaica Plain,925.0,925.0,1920.0,594.0,390.0,Active,N,Y,42.3195435,-71.1114198
+MLS Listing,Condo/Co-op,1736 Commonwealth Ave #1736,Boston,MA,2135,420000,2.0,1.0,Brighton,730.0,730.0,1940.0,575.0,400.0,Active,N,Y,42.3412671,-71.14893719999999
+MLS Listing,Condo/Co-op,32 Fleet St #6,Boston,MA,2113,575000,1.0,1.0,North End,592.0,592.0,1940.0,971.0,270.0,Active,N,Y,42.364562400000004,-71.0523418
+MLS Listing,Townhouse,29 Harrison St Unit F,Boston,MA,2131,409000,3.0,2.5,Roslindale,1729.0,1729.0,1989.0,237.0,346.0,Active,N,Y,42.2884047,-71.12025329999999
+MLS Listing,Condo/Co-op,37 Upton St #1,Boston,MA,2118,1895000,3.0,2.0,South End,1850.0,1711.0,1900.0,1024.0,286.0,Active,N,Y,42.3427258,-71.0723527
+MLS Listing,Condo/Co-op,160 Commonwealth Ave #513,Boston,MA,2116,1100000,1.0,1.0,Back Bay,972.0,972.0,1881.0,1132.0,849.0,Active,N,Y,42.3512759,-71.0786479
+MLS Listing,Condo/Co-op,15 Upton St #3,Boston,MA,2118,999000,2.0,1.0,South End,800.0,800.0,1900.0,1249.0,217.0,Active,N,Y,42.3421799,-71.0717079
+MLS Listing,Condo/Co-op,84 Train St #1,Boston,MA,2122,549000,2.0,1.0,Dorchester,1200.0,1306.0,1900.0,458.0,250.0,Active,N,Y,42.292931700000004,-71.0540127
+MLS Listing,Condo/Co-op,108 E Brookline St #3,Boston,MA,2118,739900,2.0,1.0,South End,716.0,716.0,1910.0,1033.0,175.0,Active,N,Y,42.3370446,-71.06919
+MLS Listing,Condo/Co-op,12 Everett St #202,Boston,MA,2134,649000,2.0,1.0,Allston,877.0,877.0,1900.0,740.0,393.0,Active,N,Y,42.354369,-71.1390936
+MLS Listing,Condo/Co-op,121 M St #2,Boston,MA,2127,539900,1.0,1.0,Boston,527.0,527.0,1900.0,1024.0,110.0,Active,N,Y,42.3337564,-71.0334721
+MLS Listing,Condo/Co-op,46 Upton St #4,Boston,MA,2118,1695000,3.0,2.5,South End,1477.0,1477.0,1890.0,1148.0,464.0,Active,N,Y,42.342695,-71.07287170000001
+MLS Listing,Condo/Co-op,606 E 4Th St #103,Boston,MA,2127,1050000,2.0,2.0,Boston,1386.0,1386.0,2011.0,758.0,686.0,Active,N,Y,42.3349073,-71.0405454
+MLS Listing,Condo/Co-op,9 Temple St Unit B,Boston,MA,2114,849000,2.0,2.0,Beacon Hill,860.0,860.0,1900.0,987.0,176.0,Active,N,Y,42.360900799999996,-71.0639293
+MLS Listing,Condo/Co-op,38 Dix St #2,Boston,MA,2122,649000,3.0,2.0,Dorchester,1344.0,1344.0,1905.0,483.0,200.0,Active,N,Y,42.2956094,-71.06000279999999
+MLS Listing,Single Family Residential,26 Moultrie St #26,Boston,MA,2124,679000,5.0,1.5,Dorchester,2073.0,2073.0,1920.0,328.0,350.0,Active,N,Y,42.291407899999996,-71.06933259999998
+MLS Listing,Condo/Co-op,619 Massachusetts Ave #3,Boston,MA,2118,685000,2.0,1.0,South End,783.0,783.0,1905.0,875.0,179.0,Active,N,Y,42.3368198,-71.07779559999999
+MLS Listing,Condo/Co-op,3 Lamson St #1,Boston,MA,2128,699000,3.0,2.0,East Boston's Jeffries Point,1237.0,1237.0,1895.0,565.0,312.0,Active,N,Y,42.365283399999996,-71.0331865
+MLS Listing,Condo/Co-op,80 Broad St #1008,Boston,MA,2110,1295000,2.0,2.0,Waterfront,1168.0,1168.0,2006.0,1109.0,1202.0,Active,N,Y,42.35771,-71.0528312
+MLS Listing,Townhouse,27 Howland St #2,Boston,MA,2121,999000,3.0,3.0,Boston,3633.0,8300.0,1900.0,275.0,399.0,Active,N,Y,42.31267570000001,-71.0854092
+MLS Listing,Condo/Co-op,45 Province St #1806,Boston,MA,2108,1725000,2.0,2.0,Boston,1405.0,1405.0,2009.0,1228.0,1175.0,Active,N,Y,42.35723170000001,-71.0600121
+MLS Listing,Condo/Co-op,37 Worcester Sq #4,Boston,MA,2118,1858000,2.0,2.5,South End,1803.0,1803.0,1900.0,1031.0,535.0,Active,N,Y,42.335998100000005,-71.07431729999999
+MLS Listing,Condo/Co-op,703 E 5Th St #1,Boston,MA,2127,699999,2.0,1.0,South Boston's City Point,929.0,929.0,1905.0,753.0,175.0,Active,N,Y,42.333835799999996,-71.03202929999999
+MLS Listing,Townhouse,49 Stimson St #49,Boston,MA,2132,449900,2.0,2.0,West Roxbury,1116.0,1675.0,1991.0,403.0,350.0,Active,N,Y,42.260632799999996,-71.1589099
+MLS Listing,Condo/Co-op,8 Whittier Pl Unit 6D,Boston,MA,2114,585000,1.0,1.0,West End,942.0,999.0,1964.0,621.0,775.0,Active,N,Y,42.3654839,-71.06728000000001
+MLS Listing,Condo/Co-op,141 Englewood Ave #31,Boston,MA,2135,419000,2.0,1.0,Brighton's Cleveland Circle,765.0,765.0,1930.0,548.0,568.0,Active,N,Y,42.337667100000004,-71.15163869999999
+MLS Listing,Condo/Co-op,50 B St #8,Boston,MA,2127,849000,2.0,2.0,South Boston,1220.0,1220.0,2002.0,696.0,356.0,Active,N,Y,42.3397487,-71.05549090000001
+MLS Listing,Condo/Co-op,3 Avery St #401,Boston,MA,2111,719800,2.0,2.0,Midtown,1509.0,1509.0,2004.0,477.0,2283.0,Active,N,Y,42.353596,-71.06286949999999
+MLS Listing,Condo/Co-op,20 Union Park #1,Boston,MA,2118,1395000,2.0,1.0,South End,1151.0,1151.0,1899.0,1212.0,514.0,Active,N,Y,42.3424714,-71.0715323
+MLS Listing,Condo/Co-op,97 Anderer Ln #102,Boston,MA,2132,525000,2.0,2.0,West Roxbury's Chestnut Hill,1032.0,1032.0,1989.0,509.0,450.0,Active,N,Y,42.29354910000001,-71.169289
